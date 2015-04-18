@@ -10,17 +10,18 @@ hubot pagespeed <url> (desktop|mobile) (all|score|stats)
 
 ### Examples
 
+
+Retrieve the desktop Pagespeed score for google.com.
 ```
 me: hubot pagespeed google.com
 ```
-Retrieves the desktop Pagespeed score for google.com.
 
+Retrieve all desktop-based Pagespeed information for google.com.
 ```
 me: hubot pagespeed google.com desktop all
 ```
-Retrieves all desktop-based Pagespeed information for google.com.
 
+Retrieve all mobile-based Pagespeed stats (sans score) for google.com.
 ```
 me: hubot pagespeed google.com mobile stats
 ```
-Retrieves all mobile-based Pagespeed stats (sans score) for google.com.
