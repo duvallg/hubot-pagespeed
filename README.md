@@ -5,7 +5,7 @@ Hubot will retrieve the pagespeed score and associated stats, displaying them in
 ```
 me: hubot pagespeed google.com desktop score
 ...
-```
+
 
 ### Usage
 
