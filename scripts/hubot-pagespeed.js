@@ -30,7 +30,6 @@
                 paths: '', // optional
                 locale: 'en_US', // optional
                 strategy: strategy, // optional
-                scope: scope, // optional
                 threshold: 80 // optional
             };
 
