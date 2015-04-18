@@ -1,6 +1,6 @@
 ### hubot-pagespeed
 
-Hubot will retrieve the Google Insights Pagespeed score and associated stats, displaying them in-channel.
+Hubot will retrieve the Google Insights Pagespeed score and associated stats for a given domain, displaying them in-channel.
 
 ### Usage
 
